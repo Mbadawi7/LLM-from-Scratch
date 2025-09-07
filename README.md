@@ -27,3 +27,8 @@ See `requirements.txt` for dependencies.
 
 ```bash
 pip install -r requirements.txt
+
+## Notes
+- This is an **educational project** — not a production-ready LLM.
+- All steps are inside one notebook for clarity.
+- Project was implemented and tested on a **MacBook Air (Apple Silicon, macOS)**.
